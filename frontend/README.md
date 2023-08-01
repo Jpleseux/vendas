@@ -1,4 +1,4 @@
-# vendas
+# frontend
 
 ## Project setup
 ```
